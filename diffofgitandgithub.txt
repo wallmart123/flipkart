@@ -1,0 +1,4 @@
+git: Git is a version control system that lets you manage and keep track of your source code history
+github: it is a cloud-based hosting service that lets you manage git repositories. if you have ope-source proects that use git, then gitub is designed to help you manage them.
+git: git is a version control system that lets you manage and keep track of your source code history 
+github: it is a cloud-based hosting service that lets you manage git repositories. if you have open-source projects that use git then github  is designed to elp you manage them.
